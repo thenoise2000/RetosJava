@@ -78,7 +78,8 @@ Se crean listas de objetos Estudiantes que representan a los estudiantes matricu
 
 Correo remitente y destanatario
 
-![Notificaciones](https://github.com/user-attachments/assets/cc015b22-9888-4c64-ae77-62ab54cc1f89)
+![Notificaciones](https://github.com/user-attachments/assets/f5b8ca40-83a4-43d0-8f8e-1be640fd8900)
+
 
 Correo destinatario 2
 
