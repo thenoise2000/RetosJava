@@ -16,7 +16,7 @@ Si el carácter está presente, decrementamos su contador en el mapa, ya que hem
 
 Si logramos recorrer toda la nota sin encontrar caracteres que no se puedan cubrir, retornamos true, indicando que es posible escribir la nota con recortes de la revista.
 
-# Complejidad del Algoritmo
+# Analisis de la respuesta 
 
 Complejidad Temporal: O(n + m), donde n es la longitud de la nota y m es la longitud de la revista. Esto se debe a que recorremos ambas cadenas una vez.
 Complejidad Espacial: O(k), donde k es el número de caracteres únicos en la revista, ya que almacenamos la frecuencia de cada carácter en un HashMap.
